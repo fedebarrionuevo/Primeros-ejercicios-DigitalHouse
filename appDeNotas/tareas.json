@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "miPrimerNota",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "miSegundaNota",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "miTerceraNota",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "miCuartaNota",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "miQuintaNota",
+        "estado": "pendiente"
+    }
+]
